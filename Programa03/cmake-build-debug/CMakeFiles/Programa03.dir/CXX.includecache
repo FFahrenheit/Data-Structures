@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa 3/Programa03/Arista.h
+Vertice.h
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa 3/Programa03/Vertice.h
+
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa 3/Programa03/Evento.h
+iostream
+-
+
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa 3/Programa03/Grafo.h
+Lista.h
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa 3/Programa03/Lista.h
+Vertice.h
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa 3/Programa03/Vertice.h
+Evento.h
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa 3/Programa03/Evento.h
+
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa 3/Programa03/Lista.h
+iostream
+-
+stdexcept
+-
+memory
+-
+fstream
+-
+
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa 3/Programa03/MaquinaDelTiempo.h
+iostream
+-
+Grafo.h
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa 3/Programa03/Grafo.h
+Evento.h
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa 3/Programa03/Evento.h
+
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa 3/Programa03/Vertice.h
+ostream
+-
+Lista.h
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa 3/Programa03/Lista.h
+Arista.h
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa 3/Programa03/Arista.h
+
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa 3/Programa03/main.cpp
+iostream
+-
+MaquinaDelTiempo.h
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa 3/Programa03/MaquinaDelTiempo.h
+

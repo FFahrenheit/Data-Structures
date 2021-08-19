@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa01/LSL.h
+iostream
+-
+stdexcept
+-
+memory
+-
+fstream
+-
+Song.h
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa01/Song.h
+
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa01/MyPlaylist.cpp
+MyPlaylist.h
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa01/MyPlaylist.h
+
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa01/MyPlaylist.h
+iostream
+-
+LSL.h
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa01/LSL.h
+Song.h
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa01/Song.h
+
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa01/Song.cpp
+Song.h
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa01/Song.h
+
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa01/Song.h
+iostream
+-
+
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa01/main.cpp
+iostream
+-
+MyPlaylist.h
+C:/Users/ivan_/OneDrive/Escritorio/EDA II/Programas/Programa01/MyPlaylist.h
+
