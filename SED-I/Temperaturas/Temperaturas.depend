@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1601390490 source:c:\users\ivan_\desktop\seda i\temperaturas\main.cpp
+	<iostream>
+	"Fahrenheit.h"
+	"Kelvin.h"
+	"Celsius.h"
+
+1601389456 source:c:\users\ivan_\desktop\seda i\temperaturas\src\celsius.cpp
+	"Celsius.h"
+
+1601389537 c:\users\ivan_\desktop\seda i\temperaturas\include\celsius.h
+
+1601389603 source:c:\users\ivan_\desktop\seda i\temperaturas\src\fahrenheit.cpp
+	"Fahrenheit.h"
+
+1601389537 c:\users\ivan_\desktop\seda i\temperaturas\include\fahrenheit.h
+
+1601389691 source:c:\users\ivan_\desktop\seda i\temperaturas\src\kelvin.cpp
+	"Kelvin.h"
+
+1601389616 c:\users\ivan_\desktop\seda i\temperaturas\include\kelvin.h
+

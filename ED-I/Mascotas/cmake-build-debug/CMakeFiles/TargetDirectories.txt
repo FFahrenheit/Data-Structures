@@ -1,0 +1,3 @@
+C:/Users/ivan_/Desktop/EDA 1/Mascotas/cmake-build-debug/CMakeFiles/Mascotas.dir
+C:/Users/ivan_/Desktop/EDA 1/Mascotas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ivan_/Desktop/EDA 1/Mascotas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

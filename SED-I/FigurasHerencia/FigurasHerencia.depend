@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1601993974 source:c:\users\ivan_\desktop\seda i\figurasherencia\main.cpp
+	<iostream>
+	"Validador.h"
+	"Triangulo.h"
+	"Cuadrado.h"
+	"Rectangulo.h"
+	"Poligono.h"
+
+1601990429 source:c:\users\ivan_\desktop\seda i\figurasherencia\src\validador.cpp
+	"Validador.h"
+	<iostream>
+	<string>
+	<algorithm>
+	<math.h>
+	<sstream>
+
+1601990575 c:\users\ivan_\desktop\seda i\figurasherencia\include\validador.h
+	<iostream>
+	<string.h>
+
+1601993141 source:c:\users\ivan_\desktop\seda i\figurasherencia\src\figura.cpp
+	"Figura.h"
+
+1601993033 c:\users\ivan_\desktop\seda i\figurasherencia\include\figura.h
+
+1601992530 c:\users\ivan_\desktop\seda i\figurasherencia\include\triangulo.h
+	"Figura.h"
+
+1601992530 c:\users\ivan_\desktop\seda i\figurasherencia\include\cuadrado.h
+	"Figura.h"
+
+1601992452 c:\users\ivan_\desktop\seda i\figurasherencia\include\rectangulo.h
+	"Figura.h"
+
+1601992530 c:\users\ivan_\desktop\seda i\figurasherencia\include\poligono.h
+	"Figura.h"
+
+1601992969 source:c:\users\ivan_\desktop\seda i\figurasherencia\src\cuadrado.cpp
+	"Cuadrado.h"
+
+1601993817 source:c:\users\ivan_\desktop\seda i\figurasherencia\src\poligono.cpp
+	"Poligono.h"
+
+1601993059 source:c:\users\ivan_\desktop\seda i\figurasherencia\src\rectangulo.cpp
+	"Rectangulo.h"
+
+1601993069 source:c:\users\ivan_\desktop\seda i\figurasherencia\src\triangulo.cpp
+	"Triangulo.h"
+

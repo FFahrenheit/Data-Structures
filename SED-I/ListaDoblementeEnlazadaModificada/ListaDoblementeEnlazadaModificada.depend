@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1605031622 source:c:\users\ivan_\onedrive\escritorio\seda i\listadoblementeenlazadamodificada\src\listadoblementeenlazada.cpp
+	"ListaDoblementeEnlazada.h"
+
+1605031517 c:\users\ivan_\onedrive\escritorio\seda i\listadoblementeenlazadamodificada\include\listadoblementeenlazada.h
+	<iostream>
+
+1605031651 source:c:\users\ivan_\onedrive\escritorio\seda i\listadoblementeenlazadamodificada\main.cpp
+	<iostream>
+	"ListaDoblementeEnlazada.h"
+	<algorithm>
+

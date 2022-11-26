@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1603833029 source:c:\users\ivan_\onedrive\escritorio\seda i\listaenlazadasimple\main.cpp
+	<iostream>
+	<cstdlib>
+	<string.h>
+	<algorithm>
+

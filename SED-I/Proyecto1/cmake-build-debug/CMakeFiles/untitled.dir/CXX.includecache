@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ivan_/Desktop/EDA 1/untitled/main.cpp
+iostream
+-
+string
+-
+algorithm
+-
+math.h
+-
+sstream
+-
+

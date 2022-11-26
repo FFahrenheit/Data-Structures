@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1601576847 source:c:\users\ivan_\desktop\eda 1\claseadministradora\main.cpp
+	<iostream>
+	"Horario.h"
+
+1601577419 c:\users\ivan_\desktop\eda 1\claseadministradora\include\horario.h
+	"Grupo.h"
+	<iostream>
+
+1601576847 c:\users\ivan_\desktop\eda 1\claseadministradora\include\grupo.h
+	<iostream>
+	"Estudiante.h"
+
+1601574708 c:\users\ivan_\desktop\eda 1\claseadministradora\include\estudiante.h
+	<iostream>
+
+1601574709 source:c:\users\ivan_\desktop\eda 1\claseadministradora\src\estudiante.cpp
+	"Estudiante.h"
+
+1601576775 source:c:\users\ivan_\desktop\eda 1\claseadministradora\src\grupo.cpp
+	"Grupo.h"
+
+1601576259 source:c:\users\ivan_\desktop\eda 1\claseadministradora\src\horario.cpp
+	"Horario.h"
+

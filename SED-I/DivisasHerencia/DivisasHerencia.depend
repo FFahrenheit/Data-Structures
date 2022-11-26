@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1601996695 source:c:\users\ivan_\desktop\seda i\divisasherencia\main.cpp
+	<iostream>
+	"Peso.h"
+	"Dolar.h"
+	"Yen.h"
+	"Yuan.h"
+	"Euro.h"
+	"Validador.h"
+
+1601996725 source:c:\users\ivan_\desktop\seda i\divisasherencia\src\dolar.cpp
+	"Dolar.h"
+
+1601995985 c:\users\ivan_\desktop\seda i\divisasherencia\include\dolar.h
+	"Divisa.h"
+
+1601997078 c:\users\ivan_\desktop\seda i\divisasherencia\include\divisa.h
+
+1601996732 source:c:\users\ivan_\desktop\seda i\divisasherencia\src\euro.cpp
+	"Euro.h"
+
+1601995985 c:\users\ivan_\desktop\seda i\divisasherencia\include\euro.h
+	"Divisa.h"
+
+1601996738 source:c:\users\ivan_\desktop\seda i\divisasherencia\src\peso.cpp
+	"Peso.h"
+
+1601995985 c:\users\ivan_\desktop\seda i\divisasherencia\include\peso.h
+	"Divisa.h"
+
+1601996053 source:c:\users\ivan_\desktop\seda i\divisasherencia\src\divisa.cpp
+	"Divisa.h"
+
+1601996746 source:c:\users\ivan_\desktop\seda i\divisasherencia\src\yen.cpp
+	"Yen.h"
+
+1601996069 c:\users\ivan_\desktop\seda i\divisasherencia\include\yen.h
+	"Divisa.h"
+
+1601996179 source:c:\users\ivan_\desktop\seda i\divisasherencia\src\validador.cpp
+	"Validador.h"
+	<iostream>
+	<string>
+	<algorithm>
+	<math.h>
+	<sstream>
+
+1601996179 c:\users\ivan_\desktop\seda i\divisasherencia\include\validador.h
+	<iostream>
+	<string.h>
+
+1601996706 c:\users\ivan_\desktop\seda i\divisasherencia\include\yuan.h
+	"Divisa.h"
+
+1601996693 source:c:\users\ivan_\desktop\seda i\divisasherencia\src\yuan.cpp
+	"Yuan.h"
+

@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1601387677 source:c:\users\ivan_\desktop\seda i\figuraspractica\src\cuadrado.cpp
+	"Cuadrado.h"
+
+1601387620 c:\users\ivan_\desktop\seda i\figuraspractica\include\cuadrado.h
+
+1601387677 source:c:\users\ivan_\desktop\seda i\figuraspractica\src\rectangulo.cpp
+	"Rectangulo.h"
+
+1601387620 c:\users\ivan_\desktop\seda i\figuraspractica\include\rectangulo.h
+
+1601387677 source:c:\users\ivan_\desktop\seda i\figuraspractica\src\triangulo.cpp
+	"Triangulo.h"
+
+1601387620 c:\users\ivan_\desktop\seda i\figuraspractica\include\triangulo.h
+
+1601387970 source:c:\users\ivan_\desktop\seda i\figuraspractica\main.cpp
+	<iostream>
+	"Cuadrado.h"
+	"Triangulo.h"
+	"Rectangulo.h"
+

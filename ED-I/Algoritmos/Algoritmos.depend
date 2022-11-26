@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1604641885 source:c:\users\ivan_\onedrive\escritorio\seda i\algoritmos\main.cpp
+	<iostream>
+	"ListaEstatica.h"
+	"algoritmos.h"
+	<time.h>
+
+1604600046 source:c:\users\ivan_\onedrive\escritorio\seda i\algoritmos\src\listaestatica.cpp
+	"ListaEstatica.h"
+
+1604636601 c:\users\ivan_\onedrive\escritorio\seda i\algoritmos\include\listaestatica.h
+	<iostream>
+	<stdexcept>
+
+1604600110 source:c:\users\ivan_\onedrive\escritorio\seda i\algoritmos\src\algoritmos.cpp
+	"algoritmos.h"
+
+1604640886 c:\users\ivan_\onedrive\escritorio\seda i\algoritmos\include\algoritmos.h
+	"ListaEstatica.h"
+
+1604600110 source:c:\users\ivan_\onedrive\escritorio\eda 1\algoritmos\src\algoritmos.cpp
+	"algoritmos.h"
+
+1605075125 c:\users\ivan_\onedrive\escritorio\eda 1\algoritmos\include\algoritmos.h
+	"ListaEstatica.h"
+
+1604636601 c:\users\ivan_\onedrive\escritorio\eda 1\algoritmos\include\listaestatica.h
+	<iostream>
+	<stdexcept>
+
+1604600046 source:c:\users\ivan_\onedrive\escritorio\eda 1\algoritmos\src\listaestatica.cpp
+	"ListaEstatica.h"
+
+1605074897 source:c:\users\ivan_\onedrive\escritorio\eda 1\algoritmos\main.cpp
+	<iostream>
+	"ListaEstatica.h"
+	"algoritmos.h"
+	<time.h>
+

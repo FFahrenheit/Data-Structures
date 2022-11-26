@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ivan_/OneDrive/Documentos/INGENIERIA/2020B/EDA 1/Tienda/Producto.cpp
+Producto.h
+C:/Users/ivan_/OneDrive/Documentos/INGENIERIA/2020B/EDA 1/Tienda/Producto.h
+
+C:/Users/ivan_/OneDrive/Documentos/INGENIERIA/2020B/EDA 1/Tienda/Producto.h
+iostream
+-
+

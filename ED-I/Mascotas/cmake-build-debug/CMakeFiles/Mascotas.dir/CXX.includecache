@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ivan_/Desktop/EDA 1/Mascotas/Mascota.cpp
+Mascota.h
+C:/Users/ivan_/Desktop/EDA 1/Mascotas/Mascota.h
+
+C:/Users/ivan_/Desktop/EDA 1/Mascotas/Mascota.h
+iostream
+-
+string.h
+-
+

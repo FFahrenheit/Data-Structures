@@ -1,2 +1,2 @@
-# ED-II
- Data structures programs using files
+# Data-Strucures
+ Data structures programs

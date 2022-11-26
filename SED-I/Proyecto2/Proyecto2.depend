@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1603933680 source:c:\users\ivan_\onedrive\escritorio\seda i\proyecto2\main.cpp
+	<iostream>
+	<windows.h>
+	<algorithm>
+	<conio.h>
+	<time.h>
+	"Cola.h"
+	"Pasajero.h"
+	"Pila.h"
+
+1603844906 source:c:\users\ivan_\onedrive\escritorio\seda i\proyecto2\src\cola.cpp
+	"Cola.h"
+	"Pasajero.h"
+
+1603823935 c:\users\ivan_\onedrive\escritorio\seda i\proyecto2\include\cola.h
+
+1603927478 source:c:\users\ivan_\onedrive\escritorio\seda i\proyecto2\src\pila.cpp
+	"Pila.h"
+	"Pasajero.h"
+
+1603823934 c:\users\ivan_\onedrive\escritorio\seda i\proyecto2\include\pila.h
+
+1603933318 source:c:\users\ivan_\onedrive\escritorio\seda i\proyecto2\src\pasajero.cpp
+	"Pasajero.h"
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1603929338 c:\users\ivan_\onedrive\escritorio\seda i\proyecto2\include\pasajero.h
+	<iostream>
+

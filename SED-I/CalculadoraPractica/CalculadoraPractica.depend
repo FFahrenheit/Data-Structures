@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600783922 source:c:\users\ivan_\desktop\seda i\calculadorapractica\main.cpp
+	<iostream>
+	<stdlib.h>
+	<bits/stdc++.h>
+

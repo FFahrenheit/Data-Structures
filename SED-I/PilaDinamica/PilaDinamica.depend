@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1602609375 source:c:\users\ivan_\desktop\seda i\piladinamica\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<algorithm>
+

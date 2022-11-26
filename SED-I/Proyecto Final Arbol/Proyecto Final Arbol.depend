@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1606258092 source:c:\users\ivan_\onedrive\escritorio\seda i\proyecto final arbol\main.cpp
+	<iostream>
+	<algorithm>
+	"Arbol.h"
+	"Dato.h"
+
+1606249838 source:c:\users\ivan_\onedrive\escritorio\seda i\proyecto final arbol\src\dato.cpp
+	"Dato.h"
+
+1606249483 c:\users\ivan_\onedrive\escritorio\seda i\proyecto final arbol\include\dato.h
+	<iostream>
+
+1606257251 source:c:\users\ivan_\onedrive\escritorio\seda i\proyecto final arbol\src\arbol.cpp
+	"Arbol.h"
+	"Dato.h"
+	<math.h>
+	<windows.h>
+	<iomanip>
+
+1606249483 c:\users\ivan_\onedrive\escritorio\seda i\proyecto final arbol\include\arbol.h
+	<iostream>
+

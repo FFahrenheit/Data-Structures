@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1605034076 source:c:\users\ivan_\onedrive\escritorio\seda i\playlist\main.cpp
+	<iostream>
+	"Playlist.h"
+
+1605079229 source:c:\users\ivan_\onedrive\escritorio\seda i\playlist\src\song.cpp
+	"Song.h"
+
+1605079229 c:\users\ivan_\onedrive\escritorio\seda i\playlist\include\song.h
+	<iostream>
+	<windows.h>
+
+1605080259 source:c:\users\ivan_\onedrive\escritorio\seda i\playlist\src\list.cpp
+	"List.h"
+	"Song.h"
+
+1605079298 c:\users\ivan_\onedrive\escritorio\seda i\playlist\include\list.h
+	<iostream>
+	<windows.h>
+
+1605077597 c:\users\ivan_\onedrive\escritorio\seda i\playlist\include\playlist.h
+	<iostream>
+	"Song.h"
+	"List.h"
+	"windows.h"
+	"algorithm"
+
+1605080260 source:c:\users\ivan_\onedrive\escritorio\seda i\playlist\src\playlist.cpp
+	"Playlist.h"
+
